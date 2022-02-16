@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "frou-fe-dev-controller"
+description: "CloudBees CI configuration bundle for the frou-fe dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/frou-fe/dev-controller"
+parent: "base"
